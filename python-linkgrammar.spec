@@ -2,7 +2,7 @@ Summary:	Python 2 binding for link-grammar library
 Summary(pl.UTF-8):	Wiązanie Pythona 2 do biblioteki link-grammar
 Name:		python-linkgrammar
 Version:	5.7.0
-Release:	1
+Release:	2
 License:	LGPL v2.1
 Group:		Libraries/Python
 Source0:	http://www.nl.abisource.com/downloads/link-grammar/%{version}/link-grammar-%{version}.tar.gz
