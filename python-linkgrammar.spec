@@ -33,8 +33,8 @@ Wiązanie Pythona 2 do biblioteki link-grammar.
 
 %prep
 %setup -q -n link-grammar-%{version}
-%patch0 -p1
-%patch1 -p1
+%patch -P0 -p1
+%patch -P1 -p1
 
 %build
 %{__libtoolize}
